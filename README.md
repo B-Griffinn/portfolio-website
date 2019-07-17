@@ -1,4 +1,4 @@
-My Live Portfolio: https://b-griffinn.github.io/portfolio-website/
+My Live Portfolio: https://b-griffinn.github.io/portfolio-website/.
 
 # Build A Portfolio Website
 
